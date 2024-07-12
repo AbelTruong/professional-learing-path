@@ -1,0 +1,1 @@
+console.log('Updated knowledge react new version')

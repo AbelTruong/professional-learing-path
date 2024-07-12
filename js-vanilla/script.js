@@ -1,0 +1,1 @@
+console.log('core concepts, work with the DOM API, handle events, and build a web application from scratch. Delve into advanced topics like SPA routing, web components, and reactive programming.')

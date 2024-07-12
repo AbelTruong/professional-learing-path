@@ -1,0 +1,1 @@
+console.log('research callbacks, higher-order functions, closure, asynchronous and object-oriented JavaScript!')
